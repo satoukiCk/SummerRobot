@@ -1,11 +1,11 @@
 # SummerRobot
 A personal Wechat Official account backend application based on Python
 
-Programming Language:Python 2.7
+Programming Language: Python 2.7
 
-Frameworks:Django + WeRobot
+Frameworks: Django + WeRobot
 
-Server：SAE
+Server: SAE
 
 
 实现功能:
